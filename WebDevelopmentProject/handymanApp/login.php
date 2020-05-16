@@ -116,7 +116,7 @@
         <div class="row">
           <div class="col-lg-6 mb-5">
             <h2 class="mb-4">Sign Up To Handyman</h2>
-            <form method="POST" action="phpfiles/registration.php" class="p-4 border rounded">
+            <form method="POST" action="phpfiles/index.php" class="p-4 border rounded">
 
               <div class="row form-group">
                 <div class="col-md-12 mb-3 mb-md-0">
